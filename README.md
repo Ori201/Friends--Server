@@ -1,2 +1,2 @@
 # Friends Server
-שלום
+The project has +3 connected servers
