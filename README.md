@@ -1,1 +1,2 @@
 # Friends Server
+שלום
