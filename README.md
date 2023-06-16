@@ -1,1 +1,1 @@
-# Friends--Server
+# Friends Server
